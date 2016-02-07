@@ -6,7 +6,7 @@ library(ggplot2)
 library(scales)
 #library(tidyr)
 #Setting working directory path
-setwd("https://github.com/Grajales/ExData_Plotting1/exdata-data-household_power_consumption")
+setwd("https://github.com/Grajales/ExData_Plotting1")
 
 #*****************************
 # Reading the table and separating the string of data into columns using sep=";"
