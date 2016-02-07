@@ -3,7 +3,7 @@ library(dplyr)
 library(base64)
 
 #Setting working directory path
-setwd("https://github.com/Grajales/ExData_Plotting1")
+setwd("https://github.com/Grajales/ExData_Plotting1/household_power_consumption.txt")
 
 #*****************************
 # Reading the table and separating the string of data into columns using sep=";"
